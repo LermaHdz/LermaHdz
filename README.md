@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jesus Alejandro</h1>
 <h3 align="center">A Computer Science student from Mexico</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Full name: Jesus Alejandro Lerma Hernandez</h3>
+<h3 align="left">Contact me: I19050451@itsmva.tecnm.mx </h3>
+<h3 align="left">Registration number:I19050451</h3>
 <p align="left">
 </p>
 
